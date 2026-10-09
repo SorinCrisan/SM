@@ -1,0 +1,11 @@
+{
+  "slides": [
+    [{"bar": true}, {"h": "Ai postat în fiecare zi timp de 3 luni.", "size": 104}, {"p": "*Câți clienți ți-a adus?*", "size": 64}],
+    [{"h": "Postările zilnice te țin în mintea oamenilor.", "size": 92}, {"bar": true}, {"p": "Problema apare când sunt *singura* strategie."}],
+    [{"p": "Un om care îți vede postarea stă cu tine"}, {"h": "*câteva secunde.*", "size": 120}, {"p": "Apoi dă scroll mai departe."}],
+    [{"hs": "Ca să cumpere un program serios, are nevoie de mai mult:"}, {"items": ["Să te audă explicând", "Să simtă că îi înțelegi problema", "Să vorbească cu tine"]}],
+    [{"kicker": "SISTEMUL"}, {"steps": [["Reclama", "aduce oameni noi în fiecare săptămână"], ["Webinarul", "le dă o oră cu tine"], ["Apelul 1-la-1", "îi ajută să decidă"]]}],
+    [{"hs": "Postările au și ele un rol:"}, {"items": ["Încălzesc oamenii care au văzut reclama", "Îți arată dovezile"]}],
+    [{"h": "Postezi *pentru* sistem, nu în locul lui.", "size": 96}, {"cta": "Scrie SISTEM în comentarii și îți trimit harta completă a lansării."}]
+  ]
+}
